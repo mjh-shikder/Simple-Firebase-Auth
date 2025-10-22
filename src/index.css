@@ -13,6 +13,18 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+nav a {
+  margin-right: 20px;
+
+}
+
+.active {
+  border: 1px solid ;
+  border-radius: 5px;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
 a {
   font-weight: 500;
   color: #646cff;
